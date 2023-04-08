@@ -1,4 +1,4 @@
-# Node Proyect Template
+# Node Project Template
 
 Template for projects with Node.js
 
