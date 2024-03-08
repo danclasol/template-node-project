@@ -10,19 +10,19 @@
 		"format": "prettier --write ."
 	},
 	"author": {
-		"name": "Daniel Projects",
-		"email": "danielclark.projects@gmail.com"
+		"name": "Daniel Clark",
+		"email": "danclasol16@gmail.com"
 	},
 	"license": "ISC",
 	"devDependencies": {
-		"eslint": "8.42.0",
-		"eslint-config-prettier": "8.8.0",
+		"eslint": "8.57.0",
+		"eslint-config-prettier": "9.1.0",
 		"eslint-config-standard": "17.1.0",
-		"eslint-plugin-import": "2.27.5",
-		"eslint-plugin-n": "16.0.0",
+		"eslint-plugin-import": "2.29.1",
+		"eslint-plugin-n": "16.6.2",
 		"eslint-plugin-promise": "6.1.1",
-		"nodemon": "2.0.22",
-		"prettier": "2.8.8"
+		"nodemon": "3.1.0",
+		"prettier": "3.2.5"
 	},
 	"imports": {
 		"#Lib/*": "./src/lib/*"
